@@ -1,10 +1,10 @@
 ---
-title:橘子的第一篇文章
-published:2026-07-14
-description:这是简单的寒暄
-tag:[日常]
-category:日常生活
-draft:false
+title: 橘子的第一篇文章
+published: 2026-07-14
+description: 这是简单的寒暄
+tag: [日常]
+category: 日常生活
+draft: false
 ---
 这是橘子的第一篇文章，历经许久，我终于如愿以偿将自己的个人博客搭建完成了，这个博客将有以下用途：
 1、分享橘子的日常生活
